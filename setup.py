@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='Mlops Training',
-    author='Karuna',
+    description='pipeline with MLOps tools',
+    author='karuna',
     license='MIT',
 )

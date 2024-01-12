@@ -1,7 +1,7 @@
-MLops Flask
+churn_model
 ==============================
 
-Mlops Training
+End to End Machine learning pipeline with MLOps tools
 
 Project Organization
 ------------
